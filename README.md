@@ -1,64 +1,68 @@
 # 👋 Hi, I'm Abdur Rehman Khan
 
-🎓 A second-year Computer Science student at **FAST-NUCES, Karachi**, with a passion for **problem-solving**, **systems-level programming**, and **data-driven thinking**.
+🎓 I Am A Second-Year Computer Science Student At **FAST-NUCES, Karachi**, Passionate About **Problem Solving**, **Systems-Level Programming**, And **Data-Driven Thinking**.
 
 ---
 
 ## 💻 About Me
 
-I'm currently laying the foundation for my career in **Data Science**, while actively improving my command of **C and C++ programming**. My journey includes:
+I Am Currently Building A Strong Foundation For A Career In **Data Science** While Honing My Expertise In **C And C++ Programming**. My Academic And Practical Journey Includes:
 
-- Writing clean and efficient code in **C/C++**, applied in both **Programming Fundamentals (PF)** and **Object-Oriented Programming (OOP)** courses.
-- Building real-world simulations and console-based systems using structured and object-oriented paradigms.
-- Developing digital circuits and simulators using **Logisim**, especially for **Digital Logic Design** projects like Arithmetic Logic Units (ALUs).
-- Tackling **algorithmic challenges** and sharpening my skills as a **beginner on LeetCode**.
-- Learning how to transform raw data into insights – driven by my passion for the world of **Data Science and Analytics**.
+- Writing Clean, Efficient, And Maintainable Code In **C/C++**, Applied Extensively In **Programming Fundamentals (PF)** And **Object-Oriented Programming (OOP)** Courses.  
+- Developing Real-World Simulations And Console-Based Systems Utilizing Both Structured And Object-Oriented Programming Paradigms.  
+- Designing And Simulating Digital Circuits Using **Logisim**, With A Focus On Projects Such As Arithmetic Logic Units (ALUs) For **Digital Logic Design**.  
+- Solving Algorithmic Problems And Refining My Skills As A **LeetCode Beginner**, Aiming To Strengthen Problem-Solving Capabilities.  
+- Exploring Methods To Transform Raw Data Into Meaningful Insights, Driven By My Deep Interest In **Data Science And Analytics**.
 
-I'm not focused on front-end web development but deeply enjoy **building backend logic**, understanding **how systems work**, and analyzing **how data flows and behaves** in programs.
+While I Do Not Specialize In Front-End Web Development, I Thrive On **Building Backend Logic**, Understanding The Intricacies Of **System Operations**, And Analyzing **Data Flow And Behavior** Within Software.
 
 ---
 
-## 🧠 Interests
+## 🧠 Areas Of Interest
 
-- 🧮 Data Science Foundations (Statistics, Analytics, Visualization)
-- 💡 C / C++ – Programming
-- 🔁 File Handling & Menu-Driven Systems
-- 🧠 Digital Circuit Simulation (Logisim)
-- 📊 Data Analysis & Interpretation
-- 🔍 Problem Solving | LeetCode (Beginner)
+- 🧮 Foundations Of Data Science (Statistics, Analytics, Visualization)  
+- 💡 Advanced C / C++ Programming  
+- 🔁 File Handling & Robust Menu-Driven Systems  
+- 🧠 Digital Circuit Simulation With Logisim  
+- 📊 Data Analysis & Interpretation  
+- 🔍 Problem Solving And Algorithm Development (LeetCode)  
 
 ---
 
 ## 📌 Featured Projects
 
 ### ✈️ Airline Reservation System – C Language  
-> Full-scale console app with login/authentication, admin & user roles, flight booking system, and file handling logic.  
+> A Full-Scale Console Application Featuring Secure Login And Authentication, Role-Based Access (Admin & User), Flight Booking Management, And File Handling Mechanisms.
 
 ### 🌐 FAST Airways – Front-End Simulation  
-> Static airline reservation website built in HTML/CSS/JS (ICT Lab) – mirrors our C backend project UI.  
+> A Static Airline Reservation Website Developed Using HTML, CSS, And JavaScript (ICT Lab Project) That Mirrors The Backend Functionality Of Our C Application.
 
 ### ⚙️ 6-bit ALU – Digital Logic Design  
-> Simulated ALU circuit in Logisim supporting arithmetic, bitwise, and comparison operations.
+> A Fully Simulated 6-bit Arithmetic Logic Unit Implemented In Logisim, Supporting Arithmetic, Bitwise, And Comparison Operations.
 
- **_You Can View Their Respective Repositories for More Info._**
----
+### 🌌 DigitVerse – Integer Arithmetic Explorer  
+> A Comprehensive, Single-File C++ Console Application Featuring Over 30 Integer Operations, Each With Formal Mathematical Definitions And Step-By-Step Explanations.
 
-## 💬 Mindset For Growth
-
-> “Never wait for that perfect moment — it may never come. Instead, **build it for yourself**.”
+_You Can Explore Their Respective Repositories For More Details._
 
 ---
 
-## 📫 Let's Connect
+## 💬 Growth Mindset
 
-- 📧 Email: [abdurrehmankhan0909@gmail.com](mailto:abdurrehmankhan0909@gmail.com)
+> “Don’t Wait For The Perfect Moment — Create It Yourself.”  
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: [abdurrehmankhan0909@gmail.com](mailto:abdurrehmankhan0909@gmail.com)  
 
 ---
 
 ## 🪪 License
 
-This profile and its repositories are maintained for **educational and learning purposes only**. Contributions and collaborations are welcome!
+This Profile And Its Associated Repositories Are Maintained Strictly For **Educational And Learning Purposes**. Contributions, Feedback, And Collaborations Are Warmly Welcomed.
 
 ---
 
-Thanks for visiting my GitHub! Let’s **connect**, **learn**, and **grow** together 🚀
+Thank You For Visiting My GitHub! Let’s **Connect**, **Learn**, And **Grow** Together 🚀
