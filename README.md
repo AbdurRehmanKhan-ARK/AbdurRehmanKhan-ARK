@@ -49,7 +49,7 @@ _You Can Explore Their Respective Repositories For More Details._
 
 ## 💬 Growth Mindset
 
-> “Don’t Wait For The Perfect Moment — Create It Yourself.”  
+> “Don’t Wait For The Perfect Moment | Create It Yourself !”  
 
 ---
 
