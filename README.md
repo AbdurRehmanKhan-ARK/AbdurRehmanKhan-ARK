@@ -37,7 +37,7 @@ While I Do Not Specialize In Front-End Web Development, I Thrive On **Building B
 ### 🌐 FAST Airways – Front-End Simulation  
 > A Static Airline Reservation Website Developed Using HTML, CSS, And JavaScript (ICT Lab Project) That Mirrors The Backend Functionality Of Our C Application.
 
-### ⚙️ 6-bit ALU – Digital Logic Design  
+### ⚙️ 6-Bit ALU – Digital Logic Design 
 > A Fully Simulated 6-bit Arithmetic Logic Unit Implemented In Logisim, Supporting Arithmetic, Bitwise, And Comparison Operations.
 
 ### 🌌 DigitVerse – Integer Arithmetic Explorer  
