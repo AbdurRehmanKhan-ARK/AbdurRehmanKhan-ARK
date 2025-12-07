@@ -21,36 +21,7 @@ While I Do Not Specialize In Front-End Web Development, I Thrive On **Building B
 ## 🧠 Areas Of Interest
 
 - 🧮 Foundations Of Data Science (Statistics, Analytics, Visualization)  
-- 💡 Advanced C / C++ Programming  
-- 🔁 File Handling & Robust Menu-Driven Systems  
-- 🧠 Digital Circuit Simulation With Logisim  
-- 📊 Data Analysis & Interpretation  
-- 🔍 Problem Solving And Algorithm Development (LeetCode)  
-
----
-
-## 📌 Featured Projects
-
-### ✈️ Airline Reservation System – C Language  
-> A Full-Scale Console Application Featuring Secure Login And Authentication, Role-Based Access (Admin & User), Flight Booking Management, And File Handling Mechanisms.
-
-### 🌐 FAST Airways – Front-End Simulation  
-> A Static Airline Reservation Website Developed Using HTML, CSS, And JavaScript (ICT Lab Project) That Mirrors The Backend Functionality Of Our C Application.
-
-### ⚙️ 6-Bit ALU – Digital Logic Design 
-> A Fully Simulated 6-bit Arithmetic Logic Unit Implemented In Logisim, Supporting Arithmetic, Bitwise, And Comparison Operations.
-
-### 🌌 DigitVerse – Integer Arithmetic Explorer  
-> A Comprehensive, Single-File C++ Console Application Featuring Over 30 Integer Operations, Each With Formal Mathematical Definitions And Step-By-Step Explanations.
-
-_You Can Explore Their Respective Repositories For More Details._
-
----
-
-## 💬 Growth Mindset
-
-> “Don’t Wait For The Perfect Moment | Create It Yourself !”  
-
+- 👥 User - Friendly Driven Software Programming
 ---
 
 ## 📫 Connect With Me
@@ -59,10 +30,9 @@ _You Can Explore Their Respective Repositories For More Details._
 
 ---
 
-## 🪪 License
-
 This Profile And Its Associated Repositories Are Maintained Strictly For **Educational And Learning Purposes**. Contributions, Feedback, And Collaborations Are Warmly Welcomed.
 
 ---
 
-Thank You For Visiting My GitHub! Let’s **Connect**, **Learn**, And **Grow** Together 🚀
+Thank You For Visiting My Profile! Let’s **Connect**, **Learn**, And **Grow** Together 🚀
+You can visit my repositories below
