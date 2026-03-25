@@ -1,52 +1,58 @@
 # 👋 Greetings, I'm Abdur Rehman Khan
-**Computer Science Sophomore @ FAST-NUCES, Karachi** *Strategic Backend Architect | Systems Logic Specialist | Documentation Enthusiast*
+### **Computer Science Sophomore @ FAST-NUCES, Karachi**
+#### 🏗️ System Architect | 💻 Backend Engineer | 🧠 DSA Specialist
 
 ---
 
-## 🏗️ Architectural Philosophy & Core Engineering
-I operate on a **"Design-First"** methodology. To me, code is simply the implementation of a well-architected blueprint. I specialize in mapping complex data flows through **Software Design Diagrams** and translating them into robust, enterprise-grade backend systems. Currently, I am mastering the **.NET Ecosystem** to build scalable, high-integrity applications.
+### 🏗️ Engineering Philosophy
+I operate on a **"Design-First"** methodology. To me, code is the final implementation of a meticulously architected blueprint. Driven by a **Documentation-First** mindset and a focus on systemic logic, I specialize in mapping complex data flows and translating them into robust, high-performance backend systems.
 
 ---
 
-## 🛠️ Technical Arsenal
+### 🛠️ Technical Arsenal
 
-### 💻 Backend & System Logic
-* **Languages:** C/C++ (Low-level Optimization), C# (Advanced OOP), SQL
-* **Frameworks:** ASP.NET Core MVC, Entity Framework Core (ORM)
-* **Architecture:** Database Normalization, API Design, System Modeling
-
-### 📐 Documentation & Design (The Perfectionist Edge)
-* **Diagramming:** High-fidelity UML (Class, Sequence, Activity) & ERDs
-* **Standards:** Clean Code Principles, SDS (Software Design Specifications)
-* **Data Modeling:** Advanced MS Excel for System Analysis & Reporting
+* **💻 Backend & Core Logic:** C/C++ (Systems Optimization and Advanced OOP in C++), C# (.NET Core), SQL (Oracle Database)
+* **🌐 Web Foundations:** ASP.NET Core MVC, Entity Framework Core, HTML5, CSS3, JavaScript
+* **📐 Design & Docs:** UML (Class, Sequence, Activity Diagrams), ERDs, SDS (Software Design Specifications)
+* **📊 Data Insights:** Professional MS Excel Modeling, Database Normalization & Integrity in SQL
 
 ---
 
-## 🎯 Current Strategic Focus
+### 👥 Featured Projects & Collaborations
 
-* ⚡ **Backend Mastery:** Developing high-performance, secure server-side logic using .NET Core.
-* 🧩 **Component Architecture:** Eagerly exploring **Blazor** to bridge backend services with reactive frontend components.
-* 📏 **Database Integrity:** Designing relational schemas that prioritize data consistency and query efficiency.
-* 📑 **Technical Clarity:** Refining my "Documentation-as-Code" approach for seamless team collaboration.
+#### 🌐 SocioNET++ | Advanced Graph-Based Social Ecosystem Built in C++
+* **🕸️ Graph Logic:** Every user is a **Node** and every friendship is an **Edge**, implemented via Adjacency Lists.
+* **🧠 Intelligence:** Custom algorithms for **Mutual Friend** discovery and interest-based suggestions.
+* **🎨 UX Engineering:** Professional **Boxed Interface** with UTF-8 support and visual Progress Bars.
+
+#### 🔢 DigitVerse | Computational Intelligence Playground
+* **⚙️ Tech:** C++17 powered playground.
+* **💡 Concept:** Exploring number theory and algorithmic logic.
+* **🛠️ Engineering:** High-performance computation and clean, modular C++ implementation.
+
+#### 🔌 6-Bit ALU | Processor Architecture Simulation
+* **🕹️ Tech:** Logisim.
+* **📟 Logic:** Designed and built a **6-bit Arithmetic Logic Unit** from scratch.
+* **⚡ Complexity:** Implemented 16 operations using **D Flip-Flops**.
+
+#### ✈️ Airline Reservation System | High-Efficiency Console Flight Booking Engine
+* **📂 Project:** Programming Fundamentals Lab Project @ FAST-NUCES.
+* **🛡️ Focus:** A C-based console system emphasizing **Memory Management** and flight reservation logic.
+
+---
+
+### 📂 Knowledge Hub
+I believe in continuous evolution through building. Explore my experimental playgrounds and academic milestones:
+
+* 🚀 **[Browse All Repositories](https://github.com/AbdurRehmanKhan-ARK?tab=repositories)** — *From core C++ logic to full-stack .NET solutions.*
 
 ---
 
-## 📈 Engineering Milestones
+### 📫 Let's Architect the Future
+I’m always excited to take on new challenges, whether it's optimizing a complex algorithm or designing a scalable system architecture.
 
-* **FAST-NUCES Excellence:** Translating rigorous academic CS paradigms into practical, simulated software environments.
-* **Systemic Development:** Built multi-layered management systems with a strict focus on memory efficiency and structured logic.
-* **Data-Centric Solutions:** Engineered persistent storage solutions integrating SQL Server with .NET architectures.
-
----
-
-## 📫 Let's Collaborate
-
-I thrive on discussions regarding **System Architecture**, **Backend Optimization**, and **Data Flow Design**.
-
-* **Email:** [abdurrehmankhan0909@gmail.com](mailto:abdurrehmankhan0909@gmail.com)
-* **Portfolio:** [Visit My GitHub Repositories Below]
+* **📧 Email:** abdurrehmankhan0909@gmail.com
 
 ---
-> *"Code is written for machines to execute, but architecture is designed for systems to endure."*
 
-**Let's Connect, Learn, and Architect Together 🚀**
+> *"Code is temporary, but a well-documented architecture is forever. Let’s connect, learn, and grow together! 🚀"*
