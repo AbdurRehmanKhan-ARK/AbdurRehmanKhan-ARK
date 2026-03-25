@@ -1,38 +1,52 @@
-# 👋 Hi, I'm Abdur Rehman Khan
-
-🎓 I Am A Second-Year Computer Science Student At **FAST-NUCES, Karachi**, Passionate About **Problem Solving**, **Systems-Level Programming**, And **Data-Driven Thinking**.
-
----
-
-## 💻 About Me
-
-I Am Currently Building A Strong Foundation For A Career In **Data Science** While Honing My Expertise In **C And C++ Programming**. My Academic And Practical Journey Includes:
-
-- Writing Clean, Efficient, And Maintainable Code In **C/C++**, Applied Extensively In **Programming Fundamentals (PF)** And **Object-Oriented Programming (OOP)** Courses.  
-- Developing Real-World Simulations And Console-Based Systems Utilizing Both Structured And Object-Oriented Programming Paradigms.  
-- Designing And Simulating Digital Circuits Using **Logisim**, With A Focus On Projects Such As Arithmetic Logic Units (ALUs) For **Digital Logic Design**.  
-- Solving Algorithmic Problems And Refining My Skills As A **LeetCode Beginner**, Aiming To Strengthen Problem-Solving Capabilities.  
-- Exploring Methods To Transform Raw Data Into Meaningful Insights, Driven By My Deep Interest In **Data Science And Analytics**.
-
-While I Do Not Specialize In Front-End Web Development, I Thrive On **Building Backend Logic**, Understanding The Intricacies Of **System Operations**, And Analyzing **Data Flow And Behavior** Within Software.
+# 👋 Greetings, I'm Abdur Rehman Khan
+**Computer Science Sophomore @ FAST-NUCES, Karachi** *Strategic Backend Architect | Systems Logic Specialist | Documentation Enthusiast*
 
 ---
 
-## 🧠 Areas Of Interest
-
-- 🧮 Foundations Of Data Science (Statistics, Analytics, Visualization)  
-- 👥 User - Friendly Driven Software Programming
----
-
-## 📫 Connect With Me
-
-- 📧 Email: [abdurrehmankhan0909@gmail.com](mailto:abdurrehmankhan0909@gmail.com)  
+## 🏗️ Architectural Philosophy & Core Engineering
+I operate on a **"Design-First"** methodology. To me, code is simply the implementation of a well-architected blueprint. I specialize in mapping complex data flows through **Software Design Diagrams** and translating them into robust, enterprise-grade backend systems. Currently, I am mastering the **.NET Ecosystem** to build scalable, high-integrity applications.
 
 ---
 
-This Profile And Its Associated Repositories Are Maintained Strictly For **Educational And Learning Purposes**. Contributions, Feedback, And Collaborations Are Warmly Welcomed.
+## 🛠️ Technical Arsenal
+
+### 💻 Backend & System Logic
+* **Languages:** C/C++ (Low-level Optimization), C# (Advanced OOP), SQL
+* **Frameworks:** ASP.NET Core MVC, Entity Framework Core (ORM)
+* **Architecture:** Database Normalization, API Design, System Modeling
+
+### 📐 Documentation & Design (The Perfectionist Edge)
+* **Diagramming:** High-fidelity UML (Class, Sequence, Activity) & ERDs
+* **Standards:** Clean Code Principles, SDS (Software Design Specifications)
+* **Data Modeling:** Advanced MS Excel for System Analysis & Reporting
 
 ---
 
-Thank You For Visiting My Profile! Let’s **Connect**, **Learn**, And **Grow** Together 🚀
-You can visit my repositories below
+## 🎯 Current Strategic Focus
+
+* ⚡ **Backend Mastery:** Developing high-performance, secure server-side logic using .NET Core.
+* 🧩 **Component Architecture:** Eagerly exploring **Blazor** to bridge backend services with reactive frontend components.
+* 📏 **Database Integrity:** Designing relational schemas that prioritize data consistency and query efficiency.
+* 📑 **Technical Clarity:** Refining my "Documentation-as-Code" approach for seamless team collaboration.
+
+---
+
+## 📈 Engineering Milestones
+
+* **FAST-NUCES Excellence:** Translating rigorous academic CS paradigms into practical, simulated software environments.
+* **Systemic Development:** Built multi-layered management systems with a strict focus on memory efficiency and structured logic.
+* **Data-Centric Solutions:** Engineered persistent storage solutions integrating SQL Server with .NET architectures.
+
+---
+
+## 📫 Let's Collaborate
+
+I thrive on discussions regarding **System Architecture**, **Backend Optimization**, and **Data Flow Design**.
+
+* **Email:** [abdurrehmankhan0909@gmail.com](mailto:abdurrehmankhan0909@gmail.com)
+* **Portfolio:** [Visit My GitHub Repositories Below]
+
+---
+> *"Code is written for machines to execute, but architecture is designed for systems to endure."*
+
+**Let's Connect, Learn, and Architect Together 🚀**
