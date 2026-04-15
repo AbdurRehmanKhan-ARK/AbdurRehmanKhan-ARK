@@ -1,11 +1,11 @@
 # 👋 Greetings, I'm Abdur Rehman Khan
 ### **Computer Science Sophomore @ FAST-NUCES, Karachi**
-#### 🏗️ System Architect | 💻 Backend Engineer | 🧠 DSA Specialist
+#### Aspiring 🏗️ System Architect, 💻 Backend Engineer, 🧠 AI & Machine Learning Enthusiast
 
 ---
 
 ### 🏗️ Engineering Philosophy
-I operate on a **"Design-First"** methodology. To me, code is the final implementation of a meticulously architected blueprint. Driven by a **Documentation-First** mindset and a focus on systemic logic, I specialize in mapping complex data flows and translating them into robust, high-performance backend systems.
+I operate on a **"Design-First"** methodology. To me, code is the final implementation of a meticulously architected blueprint. I'm currently learning, building, and collaborating on projects that bring ***AI and Machine Learning concepts into real-world applications*** through clean architecture and robust systems.
 
 ---
 
@@ -13,8 +13,7 @@ I operate on a **"Design-First"** methodology. To me, code is the final implemen
 
 * **💻 Backend & Core Logic:** C/C++ (Systems Optimization and Advanced OOP in C++), C# (.NET Core), SQL (Oracle Database)
 * **🌐 Web Foundations:** ASP.NET Core MVC, Entity Framework Core, HTML5, CSS3, JavaScript
-* **📐 Design & Docs:** UML (Class, Sequence, Activity Diagrams), ERDs, SDS (Software Design Specifications)
-* **📊 Data Insights:** Professional MS Excel Modeling, Database Normalization & Integrity in SQL
+* **🗄️Databases & Data Management:** Oracle SQL, Database Design, Normalization & ER Modeling & Persistent Data Storage
 
 ---
 
@@ -23,7 +22,7 @@ I operate on a **"Design-First"** methodology. To me, code is the final implemen
 #### 🌐 SocioNET++ | Advanced Graph-Based Social Ecosystem Built in C++
 * **🕸️ Graph Logic:** Every user is a **Node** and every friendship is an **Edge**, implemented via Adjacency Lists.
 * **🧠 Intelligence:** Custom algorithms for **Mutual Friend** discovery and interest-based suggestions.
-* **🎨 UX Engineering:** Professional **Boxed Interface** with UTF-8 support and visual Progress Bars.
+* **🎨 UX Engineering:** Professional **Boxed Interface** with UTF-8 Support
 
 #### 🔢 DigitVerse | Computational Intelligence Playground
 * **⚙️ Tech:** C++17 powered playground.
@@ -44,7 +43,7 @@ I operate on a **"Design-First"** methodology. To me, code is the final implemen
 ### 📂 Knowledge Hub
 I believe in continuous evolution through building. Explore my experimental playgrounds and academic milestones:
 
-* 🚀 **[Browse All Repositories](https://github.com/AbdurRehmanKhan-ARK?tab=repositories)** — *From core C++ logic to full-stack .NET solutions.*
+* 🚀 **[Browse All Repositories](https://github.com/AbdurRehmanKhan-ARK?tab=repositories)** — *From core C++ logic to upcoming full-stack .NET solutions.*
 
 ---
 
