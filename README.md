@@ -1,6 +1,6 @@
 # 👋 Greetings, I'm Abdur Rehman Khan
 ### **Computer Science Sophomore @ FAST-NUCES, Karachi**
-#### Aspiring 🏗️ System Architect, 💻 Backend Engineer, 🧠 AI & Machine Learning Enthusiast
+#### Aspiring System Architect, Backend Engineer, AI & Machine Learning Enthusiast
 
 ---
 
@@ -19,15 +19,10 @@ I operate on a **"Design-First"** methodology. To me, code is the final implemen
 
 ### 👥 Featured Projects & Collaborations
 
-#### 🌐 SocioNET++ | Advanced Graph-Based Social Ecosystem Built in C++
+#### 🌐 Social Networking Graphs | Advanced Graph-Based Social Ecosystem Built in C++
 * **🕸️ Graph Logic:** Every user is a **Node** and every friendship is an **Edge**, implemented via Adjacency Lists.
 * **🧠 Intelligence:** Custom algorithms for **Mutual Friend** discovery and interest-based suggestions.
 * **🎨 UX Engineering:** Professional **Boxed Interface** with UTF-8 Support
-
-#### 🔢 DigitVerse | Computational Intelligence Playground
-* **⚙️ Tech:** C++17 powered playground.
-* **💡 Concept:** Exploring number theory and algorithmic logic.
-* **🛠️ Engineering:** High-performance computation and clean, modular C++ implementation.
 
 #### 🔌 6-Bit ALU | Processor Architecture Simulation
 * **🕹️ Tech:** Logisim.
