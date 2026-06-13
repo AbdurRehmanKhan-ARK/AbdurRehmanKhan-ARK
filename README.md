@@ -35,34 +35,32 @@ Sophomore · 4 Semesters Complete
 
 ## Technical Skills
 
-**Languages**
+**Languages**  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![x86 Assembly](https://img.shields.io/badge/x86_Assembly-525252?style=flat-square&logo=assemblyscript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Databases**
-![Oracle DB](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
+**Databases**  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**Tools & Environments**
+**Tools & Environments**  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-![Logisim](https://img.shields.io/badge/Logisim-555555?style=flat-square&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![MS Office 365](https://img.shields.io/badge/MS_Office_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
 
-**Currently Learning**
-![MongoDB](https://img.shields.io/badge/MERN_Stack-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+**Currently Learning**  
+![MERN Stack](https://img.shields.io/badge/MERN-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
 ---
 
 ## Work
@@ -96,17 +94,17 @@ Projects organized by the domain they were built in — not what they are, but w
 </div>
 
 ---
+## Currently Working On
+- Mastering **MERN Stack**
+- Improving **DigitVerse** and **Omni-Flex**
+- Building strong foundations in **Machine Learning** and applied AI
 
-## Currently
+---
 
-- Studying MERN stack
-- Working on Omni-Flex and DigitVerse as they are currently in improvement and under construction phasess
-- Next focus area: machine learning foundations and applied AI in softwares
+*Passionate about low-level systems, clean algorithms, and turning theory into working code. Always open to learning and collaboration.*
 
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=AbdurRehmanKhan-ARK&color=555555&style=flat-square&label=Profile+Views)
-
+  <img src="https://komarev.com/ghpvc/?username=AbdurRehmanKhan-ARK&color=00B4FF&style=for-the-badge&label=Profile+Views"/>
 </div>
