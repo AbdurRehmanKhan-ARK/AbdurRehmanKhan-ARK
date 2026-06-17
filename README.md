@@ -95,7 +95,7 @@ Projects organized by the domain they were built in — not what they are, but w
 
 ---
 ## Currently Working On
-- Mastering **MERN Stack**
+- Mastering **MERN Stack** and will also explore **PERN** 
 - Improving **DigitVerse** and **Omni-Flex**
 - Building strong foundations in **Machine Learning** and applied AI
 
