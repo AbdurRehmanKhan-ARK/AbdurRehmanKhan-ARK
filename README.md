@@ -33,48 +33,52 @@ Sophomore · 4 Semesters Complete
 
 ---
 
-## Technical Skills
+## Tech Stack
 
-**Languages**  
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![x86 Assembly](https://img.shields.io/badge/x86_Assembly-525252?style=flat-square&logo=assemblyscript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
-**Databases**  
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+### Databases
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Tools & Environments**  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**Currently Learning**  
-![MERN Stack](https://img.shields.io/badge/MERN-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+### Currently Learning
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MERN Stack](https://img.shields.io/badge/MERN-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-## Work
+## Projects & Work
 
 Projects organized by the domain they were built in — not what they are, but what they demonstrate.
 
 **Graph Theory & Data Structures**
-[SocioNET++](https://github.com/AbdurRehmanKhan-ARK/SocioNet-Plus-Plus) — Console-based social network engine. Friend relationships modelled as directed graphs with BFS-powered mutual friend discovery and friend suggestion scoring. Persistent binary file storage, Suffix Automaton search, zero external dependencies. Built for the DSA course at FAST.
+[SocioNET++](https://github.com/AbdurRehmanKhan-ARK/SocioNet-Plus-Plus) **=>** Console-based social network engine. Friend relationships modelled as directed graphs with BFS-powered mutual friend discovery and friend suggestion scoring. Persistent binary file storage, Suffix Automaton search, zero external dependencies. Built for the DSA course at FAST.
 
-**Mathematical Computing & Systems Design**
-[DigitVerse](https://github.com/AbdurRehmanKhan-ARK/DigitVerse) — C++17 CLI toolkit for integer analysis. 24 number-theory operations, range-mode batch processing across up to 100,000 integers, statistical summaries, and CSV export. Modular header/source architecture, zero dependencies.
+**ASP.NET Core and Full Stack Development**
+[Omni-Flex](https://github.com/AbdurRehmanKhan-ARK/Omni-Flex) **=>** A database system that manages university student information and academic activities. It processes data related to students, courses, enrollments, grades, and faculty to ensure efficient management of academic records and university operations, and top secret, its not just for the student, these respective functionalities are also designed for the Instructor, Admin and Teaching Assistant (TA) roles too, so stay tuned.
 
 **Digital Logic & Hardware Design**
-[6-Bit ALU](https://github.com/AbdurRehmanKhan-ARK/6-Bit-ALU) — Fully functional Arithmetic Logic Unit designed from primitive gates in Logisim. 16 operations including arithmetic, logical, shift, comparison, and utility functions. Control via D Flip-Flop opcode latching and MUX-based output routing. 120+ gates. Built for the Digital Logic Design course at FAST.
+[6-Bit ALU](https://github.com/AbdurRehmanKhan-ARK/6-Bit-ALU) **=>** Fully functional Arithmetic Logic Unit designed from primitive gates in Logisim. 16 operations including arithmetic, logical, shift, comparison, and utility functions. Control via D Flip-Flop opcode latching and MUX-based output routing. 120+ gates. Built for the Digital Logic Design course at FAST.
 
 ---
 
