@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdur%20Rehman%20Khan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=BS%20Computer%20Science%20%40%20FAST-NUCES%20Karachi&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0174BE,100:00AEEF&height=180&section=header&text=Abdur%20Rehman%20Khan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=BS%20Computer%20Science%20%40%20FAST-NUCES%20Karachi&descAlignY=55&descSize=18" width="100%"/>
 
 <div align="center">
 
@@ -137,5 +137,4 @@ Deepening proficiency in ASP.NET Core and the MERN stack through active project 
 *Low-level systems. Clean algorithms. Theory made tangible.*
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00AEEF,100:0174BE&height=100&section=footer" width="100%"/>
