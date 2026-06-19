@@ -14,49 +14,50 @@
 
 ---
 
-## About
+## 🔹 About
 
-CS sophomore at FAST-NUCES Karachi — four semesters deep into the fundamentals of programming, mathematics, digital systems, data structures, database systems, and artificial intelligence. Every project undertaken here reflects a deliberate effort to understand systems from the ground up, without delegating comprehension to abstractions.
+CS sophomore at FAST NUCES Karachi  four semesters deep into the fundamentals of programming, mathematics, digital systems, data structures, database systems, and artificial intelligence. Every project undertaken here reflects a deliberate effort to understand systems from the ground up, without delegating comprehension to abstractions.
 
 The work so far spans **systems programming**, **graph theory**, **mathematical computing**, **operating systems concurrency**, and **web development**. The common thread is an insistence on building before assuming.
 
 ---
 
-## Education
+## 🟢 Education
 
-**BS Computer Science — FAST-NUCES Karachi**
-Sophomore · 4 Semesters Complete
+**BS Computer Science [Sophomore] | FAST NUCES Karachi**
+
 
 | Area | Coursework |
 |------|------------|
-| Programming | Programming Fundamentals, Object-Oriented Programming, Data Structures, Discrete Structures |
+| Programming | Programming Fundamentals, Object Oriented Programming, Data Structures, Discrete Structures |
 | Mathematics | Calculus & Analytical Geometry, Linear Algebra, Probability & Statistics, Theory of Automata |
 | Systems | Digital Logic Design, Computer Organization & Assembly Language (x86), Operating Systems |
 | Applied | Database Systems, Software Engineering, AI Fundamentals |
 
 ---
 
-## Technical Skills
+## 🟣 Technical Skills
 
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,ts,html,css&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,ts,html,css&theme=dark&perline=9&animate=1" />
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,oracle&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
 
-### Frameworks & Runtimes
-<img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express&theme=dark&perline=9" />
+
+### Learning Stack
+<img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express&theme=dark&perline=9&animate=1" />
 
 ### Tools & Environments
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,linux,bash,postman&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,linux,bash,postman&theme=dark&perline=9&animate=1" />
 
 </div>
 
 ---
 
-## GitHub Activity
+## 🟠 GitHub Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdurRehmanKhan-ARK/AbdurRehmanKhan-ARK/output/github-contribution-grid-snake-dark.svg">
@@ -66,7 +67,7 @@ Sophomore · 4 Semesters Complete
 
 ---
 
-## GitHub Stats
+## 🔵 GitHub Stats
 
 <div align="center">
 
@@ -81,33 +82,43 @@ Sophomore · 4 Semesters Complete
 
 </div>
 
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdurRehmanKhan-ARK&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
 ---
 
-## Work
+## 🟢 Work
 
 Projects organized by the domain they demonstrate — not merely by what they are.
 
 **Graph Theory & Data Structures**
 
-[SocioNET++](https://github.com/AbdurRehmanKhan-ARK/SocioNet-Plus-Plus) — Console-based social network engine modelling friend relationships as directed graphs. BFS-powered mutual friend discovery, interest-weighted suggestion scoring, Suffix Automaton username search at O(n), and a custom alphabetically-partitioned binary file storage layer with O(log n) retrieval. Zero external dependencies. Built for the Data Structures & Algorithms course at FAST-NUCES.
+[SocioNET++](https://github.com/AbdurRehmanKhan-ARK/SocioNet-Plus-Plus) ***=>*** Console-based social network engine modelling friend relationships as directed graphs. BFS-powered mutual friend discovery, interest-weighted suggestion scoring, Suffix Automaton username search at O(n), and a custom alphabetically-partitioned binary file storage layer with O(log n) retrieval. Zero external dependencies. Built for the Data Structures & Algorithms course at FAST NUCES.
 
 **Web Development & Full Stack Engineering**
 
-[OmniFlex](https://github.com/AbdurRehmanKhan-ARK/Omni-Flex) — A university academic management system built on ASP.NET Core. Handles students, courses, enrollments, grades, and faculty across four distinct roles — Student, Instructor, Teaching Assistant, and Admin. Each role operates within its own permission boundary. Built collaboratively using Git branching workflows.
+[OmniFlex](https://github.com/AbdurRehmanKhan-ARK/Omni-Flex) ***=>*** A university academic management system engineered on ASP.NET Core MVC. Orchestrates students, courses, enrollments, grades, and faculty operations across four distinct authorization roles, Student, Instructor, Teaching Assistant, and Admin, each operating within its own strictly enforced permission boundary. Developed collaboratively through a structured Git branching workflow.
 
 **Operating Systems & Concurrency**
 
-[Producer-Consumer-POSIX](https://github.com/AbdurRehmanKhan-ARK/Producer-Consumer-POSIX) — Airport baggage handling simulation implementing the bounded-buffer producer-consumer problem in C. POSIX threads coordinated via mutex and dual semaphores. Graceful shutdown propagated through a sentinel token without busy-waiting. Built for the Operating Systems course at FAST-NUCES.
+[Producer-Consumer-POSIX](https://github.com/AbdurRehmanKhan-ARK/Producer-Consumer-POSIX) ***=>*** Airport baggage handling simulation implementing the bounded-buffer producer-consumer problem at the systems level in C. POSIX threads coordinated via mutex and dual semaphore primitives. Graceful shutdown propagated through a sentinel token, eliminating busy-waiting across the consumer thread pool. Built for the Operating Systems course at FAST NUCES.
 
 **Digital Logic & Hardware Design**
 
-[6-Bit ALU](https://github.com/AbdurRehmanKhan-ARK/6-Bit-ALU) — Fully functional Arithmetic Logic Unit constructed from primitive gates in Logisim. Sixteen operations across arithmetic, logical, shift, comparison, and utility categories. D Flip-Flop opcode latching and MUX-based output routing across 120+ logic gates. Built for the Digital Logic Design course at FAST-NUCES.
+[6-Bit ALU](https://github.com/AbdurRehmanKhan-ARK/6-Bit-ALU) ***=>*** Fully functional Arithmetic Logic Unit constructed from primitive gates in Logisim. Sixteen operations spanning arithmetic, logical, shift, comparison, and utility categories. D Flip-Flop opcode latching and MUX-based output routing implemented across 120+ logic gates. Built for the Digital Logic Design course at FAST NUCES.
+
+**Structured Learning & Active Development**
+
+[JavaScript-Tutorials](https://github.com/AbdurRehmanKhan-ARK/JavaScript-Tutorials) ***=>*** A disciplined, file-per-concept JavaScript learning repository developed alongside the Chai aur Code series. Every concept practiced in isolation. Every session committed. The commit history serves as the learning log.
 
 ---
 
-## Currently
+## 🟠 Currently
 
-Deepening proficiency in ASP.NET Core and the MERN stack through active project work. Exploring both MERN and PERN as full-stack paradigms. Studying machine learning foundations alongside applied mathematics. Building consistency in competitive programming through structured algorithmic practice.
+Deepening proficiency in ASP.NET Core and the MERN stack through active project work. Investigating both MERN and PERN as full-stack paradigms for upcoming builds. Pursuing machine learning foundations in parallel with applied mathematics. Developing algorithmic problem-solving discipline through structured competitive programming practice.
 
 ---
 
