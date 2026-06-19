@@ -134,7 +134,7 @@ Deepening proficiency in ASP.NET Core and the MERN stack through active project 
 
 <div align="center">
 
-*Low-level systems. Clean algorithms. Theory made tangible.*
+***Low-level systems. Clean algorithms. Theory made tangible.***
 
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00AEEF,100:0174BE&height=100&section=footer" width="100%"/>
