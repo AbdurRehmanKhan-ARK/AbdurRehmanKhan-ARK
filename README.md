@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdur%20Rehman%20Khan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=BS%20Computer%20Science%20%40%20FAST-NUCES%20Karachi&descAlignY=55&descSize=18" width="100%"/>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Abdur+Rehman+Khan;BS+Computer+Science+%E2%80%94+FAST-NUCES+Karachi;Systems+%7C+Algorithms+%7C+Mathematics;Building+from+first+principles." alt="Typing SVG" />
@@ -6,7 +8,10 @@
 
 [![Email](https://img.shields.io/badge/abdurrehmankhan0909%40gmail.com-1a1a2e?style=flat-square&logo=gmail&logoColor=white)](mailto:abdurrehmankhan0909@gmail.com)
 [![GitHub](https://img.shields.io/badge/AbdurRehmanKhan--ARK-1a1a2e?style=flat-square&logo=github&logoColor=white)](https://github.com/AbdurRehmanKhan-ARK)
-[![Profile Views](https://komarev.com/ghpvc/?username=AbdurRehmanKhan-ARK&color=0d1117&style=flat-square&label=Profile+Views)](https://github.com/AbdurRehmanKhan-ARK)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=AbdurRehmanKhan-ARK&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -16,7 +21,7 @@
 
 ## 🔹 About
 
-CS sophomore at FAST NUCES Karachi  four semesters deep into the fundamentals of programming, mathematics, digital systems, data structures, database systems, and artificial intelligence. Every project undertaken here reflects a deliberate effort to understand systems from the ground up, without delegating comprehension to abstractions.
+CS sophomore at FAST NUCES Karachi, four semesters deep into the fundamentals of programming, mathematics, digital systems, data structures, database systems, and artificial intelligence. Every project undertaken here reflects a deliberate effort to understand systems from the ground up, without delegating comprehension to abstractions.
 
 The work so far spans **systems programming**, **graph theory**, **mathematical computing**, **operating systems concurrency**, and **web development**. The common thread is an insistence on building before assuming.
 
@@ -25,7 +30,6 @@ The work so far spans **systems programming**, **graph theory**, **mathematical 
 ## 🟢 Education
 
 **BS Computer Science [Sophomore] | FAST NUCES Karachi**
-
 
 | Area | Coursework |
 |------|------------|
@@ -44,8 +48,8 @@ The work so far spans **systems programming**, **graph theory**, **mathematical 
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,ts,html,css&theme=dark&perline=9&animate=1" />
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark&animate=1" />
+&nbsp;
 
 ### Learning Stack
 <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express&theme=dark&perline=9&animate=1" />
@@ -92,7 +96,7 @@ The work so far spans **systems programming**, **graph theory**, **mathematical 
 
 ## 🟢 Work
 
-Projects organized by the domain they demonstrate — not merely by what they are.
+Projects organized by the domain they demonstrate, not merely by what they are.
 
 **Graph Theory & Data Structures**
 
@@ -127,3 +131,5 @@ Deepening proficiency in ASP.NET Core and the MERN stack through active project 
 *Low-level systems. Clean algorithms. Theory made tangible.*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
