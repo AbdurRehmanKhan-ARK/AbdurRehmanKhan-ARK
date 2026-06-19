@@ -61,6 +61,32 @@ The work so far spans **systems programming**, **graph theory**, **mathematical 
 
 ---
 
+## 🟢 Work
+
+Projects organized by the domain they demonstrate, not merely by what they are.
+
+**Graph Theory & Data Structures**
+
+[SocioNET++](https://github.com/AbdurRehmanKhan-ARK/SocioNet-Plus-Plus) ***=>*** Console-based social network engine modelling friend relationships as directed graphs. BFS-powered mutual friend discovery, interest-weighted suggestion scoring, Suffix Automaton username search at O(n), and a custom alphabetically-partitioned binary file storage layer with O(log n) retrieval. Zero external dependencies. Built for the Data Structures & Algorithms course at FAST NUCES.
+
+**Web Development & Full Stack Engineering**
+
+[OmniFlex](https://github.com/AbdurRehmanKhan-ARK/Omni-Flex) ***=>*** A university academic management system engineered on ASP.NET Core MVC. Orchestrates students, courses, enrollments, grades, and faculty operations across four distinct authorization roles, Student, Instructor, Teaching Assistant, and Admin, each operating within its own strictly enforced permission boundary. Developed collaboratively through a structured Git branching workflow.
+
+**Operating Systems & Concurrency**
+
+[Producer-Consumer-POSIX](https://github.com/AbdurRehmanKhan-ARK/Producer-Consumer-POSIX) ***=>*** Airport baggage handling simulation implementing the bounded-buffer producer-consumer problem at the systems level in C. POSIX threads coordinated via mutex and dual semaphore primitives. Graceful shutdown propagated through a sentinel token, eliminating busy-waiting across the consumer thread pool. Built for the Operating Systems course at FAST NUCES.
+
+**Digital Logic & Hardware Design**
+
+[6-Bit ALU](https://github.com/AbdurRehmanKhan-ARK/6-Bit-ALU) ***=>*** Fully functional Arithmetic Logic Unit constructed from primitive gates in Logisim. Sixteen operations spanning arithmetic, logical, shift, comparison, and utility categories. D Flip-Flop opcode latching and MUX-based output routing implemented across 120+ logic gates. Built for the Digital Logic Design course at FAST NUCES.
+
+**Structured Learning & Active Development**
+
+[JavaScript-Tutorials](https://github.com/AbdurRehmanKhan-ARK/JavaScript-Tutorials) ***=>*** A disciplined, file-per-concept JavaScript learning repository developed alongside the Chai aur Code series. Every concept practiced in isolation. Every session committed. The commit history serves as the learning log.
+
+---
+
 ## 🟠 GitHub Activity
 
 <picture>
@@ -97,32 +123,6 @@ The work so far spans **systems programming**, **graph theory**, **mathematical 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdurRehmanKhan-ARK&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
-
----
-
-## 🟢 Work
-
-Projects organized by the domain they demonstrate, not merely by what they are.
-
-**Graph Theory & Data Structures**
-
-[SocioNET++](https://github.com/AbdurRehmanKhan-ARK/SocioNet-Plus-Plus) ***=>*** Console-based social network engine modelling friend relationships as directed graphs. BFS-powered mutual friend discovery, interest-weighted suggestion scoring, Suffix Automaton username search at O(n), and a custom alphabetically-partitioned binary file storage layer with O(log n) retrieval. Zero external dependencies. Built for the Data Structures & Algorithms course at FAST NUCES.
-
-**Web Development & Full Stack Engineering**
-
-[OmniFlex](https://github.com/AbdurRehmanKhan-ARK/Omni-Flex) ***=>*** A university academic management system engineered on ASP.NET Core MVC. Orchestrates students, courses, enrollments, grades, and faculty operations across four distinct authorization roles, Student, Instructor, Teaching Assistant, and Admin, each operating within its own strictly enforced permission boundary. Developed collaboratively through a structured Git branching workflow.
-
-**Operating Systems & Concurrency**
-
-[Producer-Consumer-POSIX](https://github.com/AbdurRehmanKhan-ARK/Producer-Consumer-POSIX) ***=>*** Airport baggage handling simulation implementing the bounded-buffer producer-consumer problem at the systems level in C. POSIX threads coordinated via mutex and dual semaphore primitives. Graceful shutdown propagated through a sentinel token, eliminating busy-waiting across the consumer thread pool. Built for the Operating Systems course at FAST NUCES.
-
-**Digital Logic & Hardware Design**
-
-[6-Bit ALU](https://github.com/AbdurRehmanKhan-ARK/6-Bit-ALU) ***=>*** Fully functional Arithmetic Logic Unit constructed from primitive gates in Logisim. Sixteen operations spanning arithmetic, logical, shift, comparison, and utility categories. D Flip-Flop opcode latching and MUX-based output routing implemented across 120+ logic gates. Built for the Digital Logic Design course at FAST NUCES.
-
-**Structured Learning & Active Development**
-
-[JavaScript-Tutorials](https://github.com/AbdurRehmanKhan-ARK/JavaScript-Tutorials) ***=>*** A disciplined, file-per-concept JavaScript learning repository developed alongside the Chai aur Code series. Every concept practiced in isolation. Every session committed. The commit history serves as the learning log.
 
 ---
 
