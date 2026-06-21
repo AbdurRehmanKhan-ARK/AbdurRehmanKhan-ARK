@@ -45,17 +45,17 @@ The work so far spans **systems programming**, **graph theory**, **mathematical 
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,ts,html,css&theme=dark&perline=9&animate=1" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,ts,html,css&theme=dark&perline=9" />
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark&animate=1" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
 &nbsp;
 
 ### Learning Stack
-<img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express&theme=dark&perline=9&animate=1" />
+<img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express&theme=dark&perline=9" />
 
 ### Tools & Environments
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,linux,bash,postman&theme=dark&perline=9&animate=1" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,linux,bash,postman&theme=dark&perline=9" />
 
 </div>
 
@@ -101,14 +101,8 @@ Projects organized by the domain they demonstrate, not merely by what they are.
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=AbdurRehmanKhan-ARK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=AbdurRehmanKhan-ARK&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurRehmanKhan-ARK&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-
-<div align="center">
-
-![Metrics](./metrics.svg)
-
-</div>
 
 </div>
 
