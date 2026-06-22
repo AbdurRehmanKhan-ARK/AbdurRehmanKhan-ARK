@@ -52,7 +52,7 @@ The work so far spans **systems programming**, **graph theory**, **mathematical 
 &nbsp;
 
 ### Learning Stack
-<img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express,docker,kubernetes&theme=dark&perline=9" />
 
 ### Tools & Environments
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,linux,bash,postman&theme=dark&perline=9" />
