@@ -21,9 +21,9 @@
 
 ## 🔹 About & Vision
 
-I am a CS Junior (Semester 5) at FAST NUCES Karachi, building a rock-solid foundation for a career in **DevOps and Platform Engineering**. My philosophy is simple: *To build and automate highly scalable infrastructure, you must first master the software that runs on it.* 
+I am a CS Sophomore (Semester 4) at FAST NUCES Karachi, building a rock-solid foundation for a career in **DevOps and Platform Engineering**. My philosophy is simple: *To build and automate highly scalable infrastructure, you must first master the software that runs on it.* 
 
-Instead of jumping straight into complex orchestration tools without context, I am deliberately spent my early years mastering systems programming, operating systems, and data structures. Currently, I am expanding my **Development (Dev)** foundations by building production-grade web applications using the **MERN/PERN** and **ASP.NET Core** stacks. 
+Instead of jumping straight into complex orchestration tools without context, I am deliberately spending my early years mastering systems programming, operating systems, and data structures. Currently, I am expanding my **Development (Dev)** foundations by building production-grade web applications using the **MERN/PERN** and **ASP.NET Core** stacks. 
 
 Every project here reflects a journey from first principles—moving intentionally from raw code to containerized deployment.
 
@@ -65,17 +65,18 @@ Every project here reflects a journey from first principles—moving intentional
 
 Projects organized by the domain they demonstrate, showcasing the transition from core systems to full-stack engineering.
 
-**Web Development & Full-Stack Engineering**
 
-[OmniFlex](https://github.com/AbdurRehmanKhan-ARK/Omni-Flex) ***=>*** A university academic management system engineered on ASP.NET Core MVC. Orchestrates students, courses, enrollments, grades, and faculty operations across four distinct authorization roles. Developed collaboratively through a structured Git branching workflow—my first hands-on look at team-driven integration.
-
-**Operating Systems & Concurrency**
-
-[Producer-Consumer-POSIX](https://github.com/AbdurRehmanKhan-ARK/Producer-Consumer-POSIX) ***=>*** Airport baggage handling simulation implementing the bounded-buffer producer-consumer problem at the systems level in C. POSIX threads coordinated via mutex and dual semaphore primitives. Graceful shutdown propagated through a sentinel token. This project cemented my understanding of how low-level system processes interact.
 
 **Graph Theory & Data Structures**
 
 [SocioNET++](https://github.com/AbdurRehmanKhan-ARK/SocioNet-Plus-Plus) ***=>*** Console-based social network engine modeling friend relationships as directed graphs. BFS-powered mutual friend discovery, interest-weighted suggestion scoring, Suffix Automaton username search at O(n), and a custom alphabetically-partitioned binary file storage layer with O(log n) retrieval. Zero external dependencies.
+
+**Web Development & Full-Stack Engineering**
+
+[OmniFlex](https://github.com/AbdurRehmanKhan-ARK/Omni-Flex) ***=>*** A university academic management system engineered on ASP.NET Core MVC. Orchestrates students, courses, enrollments, grades, and faculty operations across four distinct authorization roles. Developed collaboratively through a structured Git branching workflow.
+**Operating Systems & Concurrency**
+
+[Producer-Consumer-POSIX](https://github.com/AbdurRehmanKhan-ARK/Producer-Consumer-POSIX) ***=>*** Airport baggage handling simulation implementing the bounded-buffer producer-consumer problem at the systems level in C. POSIX threads coordinated via mutex and dual semaphore primitives. Graceful shutdown propagated through a sentinel token. This project cemented my understanding of how low-level system processes interact.
 
 **Digital Logic & Hardware Design**
 
