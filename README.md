@@ -91,13 +91,6 @@ Projects organized by the domain they demonstrate, showcasing the transition fro
 
 ---
 
-## 🏆 Github Trophies
-<div align="center">
-
-![Trophies](https://github-trophies.vercel.app/?username=AbdurRehmanKhan-ARK&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
-<br/>
 
 ## 🔵 GitHub Metrics
 
