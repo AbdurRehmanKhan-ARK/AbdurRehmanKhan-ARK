@@ -115,6 +115,12 @@ Projects organized by the domain they demonstrate, showcasing the transition fro
 
 </div>
 
+<div align="center">
+
+![Metrics](./metrics.svg)
+
+</div>
+
 ---
 
 <div align="center">
