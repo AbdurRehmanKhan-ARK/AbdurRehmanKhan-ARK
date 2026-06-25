@@ -91,6 +91,11 @@ Projects organized by the domain they demonstrate, showcasing the transition fro
 
 ---
 
+## 🏆 Github Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbdurRehmanKhan-ARKryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
 ## 🔵 GitHub Metrics
 
 <div align="center">
