@@ -118,8 +118,8 @@ Projects organized by the domain they demonstrate, showcasing the transition fro
 ---
 
 <div align="center">
-
-***Writing clean code today to build bulletproof infrastructure tomorrow.***
+  
+ ***_Low-level systems. Clean algorithms. Theory made tangible._***
 
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00AEEF,100:0174BE&height=100&section=footer" width="100%"/>
