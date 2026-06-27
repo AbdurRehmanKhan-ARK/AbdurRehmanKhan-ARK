@@ -51,11 +51,11 @@ Every project here reflects a journey from first principles—moving intentional
 ### Full-Stack Development
 <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express,html,css,postman&theme=dark&perline=7" />
 
-### Databases & Cloud Foundation
+### Databases
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" />
 
-### DevOps & Automation (Growing Stack)
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github&theme=dark" />
+### Learning Stack
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,terraform,ansible,nginx,grafana,prometheus&theme=dark&perline=8" />
 
 </div>
 
