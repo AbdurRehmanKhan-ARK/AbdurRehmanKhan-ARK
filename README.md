@@ -26,7 +26,7 @@ I am a CS Sophomore (Semester 4) at FAST NUCES Karachi, building a rock-solid fo
 
 Instead of jumping straight into complex orchestration tools without context, I am deliberately spending my early years mastering systems programming, operating systems, and data structures. Currently, I am expanding my **Development (Dev)** foundations by building production-grade web applications using the **MERN/PERN** and **ASP.NET Core** stacks.
 
-Every project here reflects a journey from first principles — moving intentionally from raw code to containerized deployment.
+Every project here reflects a journey from first principles - moving intentionally from raw code to containerized deployment.
 
 ---
 
@@ -96,7 +96,7 @@ Projects organized by the domain they demonstrate, showcasing the transition fro
 
 ## 🤝 Connect With Me
 
-I am open to technical discussions, project collaborations, and any feedback on my work. Whether you have spotted an issue in one of my repositories, have a better approach to share, or simply want to talk systems and engineering — feel free to reach out.
+I am open to technical discussions, project collaborations, and any feedback on my work. Whether you have spotted an issue in one of my repositories, have a better approach to share, or simply want to talk systems and engineering - feel free to reach out.
 
 <div align="center">
 
