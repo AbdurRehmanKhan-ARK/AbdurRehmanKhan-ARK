@@ -41,7 +41,7 @@ Every project here reflects a journey from first principles—moving intentional
 
 ---
 
-## 🟣 Technical Skills
+## 🟣 Tech Stack
 
 <div align="center">
 
