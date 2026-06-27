@@ -74,6 +74,7 @@ Projects organized by the domain they demonstrate, showcasing the transition fro
 **Web Development & Full-Stack Engineering**
 
 [OmniFlex](https://github.com/AbdurRehmanKhan-ARK/Omni-Flex) ***=>*** A university academic management system engineered on ASP.NET Core MVC. Orchestrates students, courses, enrollments, grades, and faculty operations across four distinct authorization roles. Developed collaboratively through a structured Git branching workflow.
+
 **Operating Systems & Concurrency**
 
 [Producer-Consumer-POSIX](https://github.com/AbdurRehmanKhan-ARK/Producer-Consumer-POSIX) ***=>*** Airport baggage handling simulation implementing the bounded-buffer producer-consumer problem at the systems level in C. POSIX threads coordinated via mutex and dual semaphore primitives. Graceful shutdown propagated through a sentinel token. This project cemented my understanding of how low-level system processes interact.
