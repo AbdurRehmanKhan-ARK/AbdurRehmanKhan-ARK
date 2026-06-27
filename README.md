@@ -8,6 +8,7 @@
 
 [![Email](https://img.shields.io/badge/abdurrehmankhan0909%40gmail.com-1a1a2e?style=flat-square&logo=gmail&logoColor=white)](mailto:abdurrehmankhan0909@gmail.com)
 [![GitHub](https://img.shields.io/badge/AbdurRehmanKhan--ARK-1a1a2e?style=flat-square&logo=github&logoColor=white)](https://github.com/AbdurRehmanKhan-ARK)
+[![LinkedIn](https://img.shields.io/badge/Abdur%20Rehman%20Khan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-rehman-khan-999198320/)
 
 <br/>
 
@@ -21,11 +22,11 @@
 
 ## 🔹 About & Vision
 
-I am a CS Sophomore (Semester 4) at FAST NUCES Karachi, building a rock-solid foundation for a career in **DevOps and Platform Engineering**. My philosophy is simple: *To build and automate highly scalable infrastructure, you must first master the software that runs on it.* 
+I am a CS Sophomore (Semester 4) at FAST NUCES Karachi, building a rock-solid foundation for a career in **DevOps and Platform Engineering**. My philosophy is simple: *To build and automate highly scalable infrastructure, you must first master the software that runs on it.*
 
-Instead of jumping straight into complex orchestration tools without context, I am deliberately spending my early years mastering systems programming, operating systems, and data structures. Currently, I am expanding my **Development (Dev)** foundations by building production-grade web applications using the **MERN/PERN** and **ASP.NET Core** stacks. 
+Instead of jumping straight into complex orchestration tools without context, I am deliberately spending my early years mastering systems programming, operating systems, and data structures. Currently, I am expanding my **Development (Dev)** foundations by building production-grade web applications using the **MERN/PERN** and **ASP.NET Core** stacks.
 
-Every project here reflects a journey from first principles—moving intentionally from raw code to containerized deployment.
+Every project here reflects a journey from first principles — moving intentionally from raw code to containerized deployment.
 
 ---
 
@@ -65,8 +66,6 @@ Every project here reflects a journey from first principles—moving intentional
 
 Projects organized by the domain they demonstrate, showcasing the transition from core systems to full-stack engineering.
 
-
-
 **Graph Theory & Data Structures**
 
 [SocioNET++](https://github.com/AbdurRehmanKhan-ARK/SocioNet-Plus-Plus) ***=>*** Console-based social network engine modeling friend relationships as directed graphs. BFS-powered mutual friend discovery, interest-weighted suggestion scoring, Suffix Automaton username search at O(n), and a custom alphabetically-partitioned binary file storage layer with O(log n) retrieval. Zero external dependencies.
@@ -85,14 +84,29 @@ Projects organized by the domain they demonstrate, showcasing the transition fro
 
 ---
 
-## 🟠 Currently Focus & Roadmap
+## 🟠 Current Focus & Roadmap
 
-*   **Dev Mastery:** Deepening proficiency in the **MERN** and **PERN (PostgreSQL, Express, React, Node)** stacks to understand complex backend architectures, microservices, and database optimizations.
-*   **DevOps Foundations:** Moving projects from "works on my machine" to isolated environments using **Docker**, while exploring automated workflows via **GitHub Actions** (CI/CD).
-*   **Algorithmic Discipline:** Maintaining continuous problem-solving practice through structured competitive programming.
+**Dev Mastery:** Deepening proficiency in the **MERN** and **PERN** stacks to understand complex backend architectures, microservices, and database optimizations.
+
+**DevOps Foundations:** Moving projects from "works on my machine" to isolated environments using **Docker**, while exploring automated workflows via **GitHub Actions**.
+
+**Algorithmic Discipline:** Maintaining continuous problem-solving practice through structured competitive programming.
 
 ---
 
+## 🤝 Connect With Me
+
+I am open to technical discussions, project collaborations, and any feedback on my work. Whether you have spotted an issue in one of my repositories, have a better approach to share, or simply want to talk systems and engineering — feel free to reach out.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0174BE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-rehman-khan-999198320/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-1a1a2e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdurrehmankhan0909@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdurRehmanKhan-ARK)
+
+</div>
+
+---
 
 ## 🔵 GitHub Metrics
 
@@ -125,8 +139,9 @@ Projects organized by the domain they demonstrate, showcasing the transition fro
 ---
 
 <div align="center">
-  
- ***_Low-level systems. Clean algorithms. Theory made tangible._***
+
+***_Low-level systems. Clean algorithms. Theory made tangible._***
 
 </div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00AEEF,100:0174BE&height=100&section=footer" width="100%"/>
