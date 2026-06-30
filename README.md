@@ -130,12 +130,6 @@ I am open to technical discussions, project collaborations, and any feedback on 
 
 </div>
 
-<div align="center">
-
-![Metrics](./metrics.svg)
-
-</div>
-
 ---
 
 <div align="center">
