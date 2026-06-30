@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0174BE,100:00AEEF&height=180&section=header&text=Abdur%20Rehman%20Khan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=BS%20Computer%20Science%20%40%20FAST-NUCES%20Karachi&descAlignY=55&descSize=18" width="100%"/>
+<img width="834" height="288" alt="image" src="https://github.com/user-attachments/assets/a2e3b308-0d06-4800-9f9f-bc895a53bfd0" /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0174BE,100:00AEEF&height=180&section=header&text=Abdur%20Rehman%20Khan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=BS%20Computer%20Science%20%40%20FAST-NUCES%20Karachi&descAlignY=55&descSize=18" width="100%"/>
 
 <div align="center">
 
@@ -128,6 +128,11 @@ I am open to technical discussions, project collaborations, and any feedback on 
 ![Streak](https://streak-stats.demolab.com?user=AbdurRehmanKhan-ARK&theme=tokyonight&hide_border=true)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdurRehmanKhan-ARK&theme=tokyo-night&hide_border=true&area=true)
 
+<div align="center">
+
+![Metrics](./metrics.svg)
+
+</div>
 </div>
 
 ---
