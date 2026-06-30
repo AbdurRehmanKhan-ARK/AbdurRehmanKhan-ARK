@@ -138,12 +138,6 @@ I am open to technical discussions, project collaborations, and any feedback on 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AbdurRehmanKhan-ARK&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
-<div align="center">
-
 ![Metrics](./metrics.svg)
 
 </div>
