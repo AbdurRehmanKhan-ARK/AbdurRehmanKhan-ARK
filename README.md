@@ -1,4 +1,4 @@
-<img width="834" height="288" alt="image" src="https://github.com/user-attachments/assets/a2e3b308-0d06-4800-9f9f-bc895a53bfd0" /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0174BE,100:00AEEF&height=180&section=header&text=Abdur%20Rehman%20Khan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=BS%20Computer%20Science%20%40%20FAST-NUCES%20Karachi&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0174BE,100:00AEEF&height=180&section=header&text=Abdur%20Rehman%20Khan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=BS%20Computer%20Science%20%40%20FAST-NUCES%20Karachi&descAlignY=55&descSize=18" width="100%"/>
 
 <div align="center">
 
@@ -26,7 +26,7 @@ I am a CS Sophomore (Semester 4) at FAST NUCES Karachi, building a rock-solid fo
 
 Instead of jumping straight into complex orchestration tools without context, I am deliberately spending my early years mastering systems programming, operating systems, and data structures. Currently, I am expanding my **Development (Dev)** foundations by building production-grade web applications using the **MERN/PERN** and **ASP.NET Core** stacks.
 
-Every project here reflects a journey from first principles - moving intentionally from raw code to containerized deployment.
+Every project here reflects a journey from first principles — moving intentionally from raw code to containerized deployment.
 
 ---
 
@@ -96,7 +96,7 @@ Projects organized by the domain they demonstrate, showcasing the transition fro
 
 ## 🤝 Connect With Me
 
-I am open to technical discussions, project collaborations, and any feedback on my work. Whether you have spotted an issue in one of my repositories, have a better approach to share, or simply want to talk systems and engineering - feel free to reach out.
+I am open to technical discussions, project collaborations, and any feedback on my work. Whether you have spotted an issue in one of my repositories, have a better approach to share, or simply want to talk systems and engineering — feel free to reach out.
 
 <div align="center">
 
@@ -118,21 +118,34 @@ I am open to technical discussions, project collaborations, and any feedback on 
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AbdurRehmanKhan-ARK/AbdurRehmanKhan-ARK/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br/>
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=AbdurRehmanKhan-ARK&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurRehmanKhan-ARK&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+</div>
 
 <br/>
 
-![Streak](https://streak-stats.demolab.com?user=AbdurRehmanKhan-ARK&theme=tokyonight&hide_border=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdurRehmanKhan-ARK&theme=tokyo-night&hide_border=true&area=true)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AbdurRehmanKhan-ARK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" height="195"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdurRehmanKhan-ARK&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="195"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurRehmanKhan-ARK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="200"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdurRehmanKhan-ARK&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF" height="200"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AbdurRehmanKhan-ARK&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
 
 <div align="center">
 
 ![Metrics](./metrics.svg)
 
-</div>
 </div>
 
 ---
