@@ -118,19 +118,19 @@ I am open to technical discussions, project collaborations, and any feedback on 
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AbdurRehmanKhan-ARK/AbdurRehmanKhan-ARK/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br/><br/>
+
+| GitHub Stats | Streak |
+|:---:|:---:|
+| ![](https://github-readme-stats-fast.vercel.app/api?username=AbdurRehmanKhan-ARK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true) | ![](https://streak-stats.demolab.com?user=AbdurRehmanKhan-ARK&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF) |
+
+| Most Used Languages |
+|:---:|
+| ![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AbdurRehmanKhan-ARK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8) |
+
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbdurRehmanKhan-ARK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" height="195"/>
-<img src="https://streak-stats.demolab.com?user=AbdurRehmanKhan-ARK&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="195"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurRehmanKhan-ARK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="200"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdurRehmanKhan-ARK&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF" height="200"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AbdurRehmanKhan-ARK&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%"/>
+![](https://github-readme-activity-graph.vercel.app/graph?username=AbdurRehmanKhan-ARK&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF)
 
 </div>
 
