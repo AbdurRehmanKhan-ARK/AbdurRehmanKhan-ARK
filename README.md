@@ -118,39 +118,19 @@ I am open to technical discussions, project collaborations, and any feedback on 
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AbdurRehmanKhan-ARK/AbdurRehmanKhan-ARK/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br/><br/>
-
-<!-- Row 1: Summary Cards (github-profile-summary-cards) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdurRehmanKhan-ARK&theme=tokyonight" width="100%"/>
-
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdurRehmanKhan-ARK&theme=tokyonight" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdurRehmanKhan-ARK&theme=tokyonight" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdurRehmanKhan-ARK&theme=tokyonight" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdurRehmanKhan-ARK&theme=tokyonight&utcOffset=5" height="180"/>
-
-<br/><br/>
-
-<!-- Row 2: Core Stats + Streak -->
 <img src="https://github-readme-stats.vercel.app/api?username=AbdurRehmanKhan-ARK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" height="195"/>
 <img src="https://streak-stats.demolab.com?user=AbdurRehmanKhan-ARK&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="195"/>
 
 <br/><br/>
 
-<!-- Row 3: Languages + Activity Graph -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurRehmanKhan-ARK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="200"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdurRehmanKhan-ARK&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF" height="200"/>
 
 <br/><br/>
 
-<!-- Row 4: Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=AbdurRehmanKhan-ARK&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%"/>
-
-<br/><br/>
-
-<!-- Row 5: Metrics Terminal -->
-![Metrics](./metrics.svg)
 
 </div>
 
