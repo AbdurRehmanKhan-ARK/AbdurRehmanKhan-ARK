@@ -26,7 +26,7 @@ I am a CS Sophomore at FAST NUCES Karachi, building a rock-solid foundation for 
 
 Instead of jumping straight into complex orchestration tools without context, I am deliberately spending my early years mastering systems programming, operating systems, and data structures. Currently, I am expanding my **Development (Dev)** foundations by building production-grade web applications using the **MERN/PERN** and **ASP.NET Core** stacks.
 
-Every project here reflects a journey from first principles — moving intentionally from raw code to containerized deployment.
+Every project here reflects a journey from first principles - moving intentionally from raw code to containerized deployment.
 
 ---
 
@@ -96,7 +96,7 @@ Projects organized by the domain they demonstrate, showcasing the transition fro
 
 ## 🤝 Connect With Me
 
-I am open to technical discussions, project collaborations, and any feedback on my work. Whether you have spotted an issue in one of my repositories, have a better approach to share, or simply want to talk systems and engineering — feel free to reach out.
+I am open to technical discussions, project collaborations, and any feedback on my work. Whether you have spotted an issue in one of my repositories, have a better approach to share, or simply want to talk systems and engineering - feel free to reach out.
 
 <div align="center">
 
@@ -111,10 +111,14 @@ I am open to technical discussions, project collaborations, and any feedback on 
 ## 🔵 GitHub Metrics
 
 <div align="center">
-  
-![Metrics](https://raw.githubusercontent.com/AbdurRehmanKhan-ARK/AbdurRehmanKhan-ARK/main/github-metrics.svg)
-  
-![](https://github-readme-activity-graph.vercel.app/graph?username=AbdurRehmanKhan-ARK&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdurRehmanKhan-ARK/AbdurRehmanKhan-ARK/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdurRehmanKhan-ARK/AbdurRehmanKhan-ARK/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AbdurRehmanKhan-ARK/AbdurRehmanKhan-ARK/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/><br/>
 
 </div>
 
