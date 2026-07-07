@@ -112,6 +112,11 @@ I am open to technical discussions, project collaborations, and any feedback on 
 
 <div align="center">
 
+<img src="./profile/stats.svg" height="165"/>
+<img src="./profile/top-langs.svg" height="165"/>
+
+<br/><br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdurRehmanKhan-ARK/AbdurRehmanKhan-ARK/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdurRehmanKhan-ARK/AbdurRehmanKhan-ARK/output/github-contribution-grid-snake.svg">
@@ -121,7 +126,6 @@ I am open to technical discussions, project collaborations, and any feedback on 
 <br/><br/>
 
 </div>
-
 ---
 
 <div align="center">
