@@ -114,7 +114,7 @@ I am open to technical discussions, project collaborations, and any feedback on 
 
 <img src="./profile/stats.svg" height="165"/>
 <img src="./profile/top-langs.svg" height="165"/>
-
+<img src="./profile/streak.svg" height="165"/>
 <br/><br/>
 
 <picture>
