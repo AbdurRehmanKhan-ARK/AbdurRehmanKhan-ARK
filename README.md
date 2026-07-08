@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Abdur+Rehman+Khan;BS+Computer+Science+%E2%80%94+FAST-NUCES+Karachi;Systems+%7C+Full-Stack+%7C+DevOps+Aspirant;Building+from+first+principles." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi,+I+am+Abdur+Rehman+Khan;BS+Computer+Science+%E2%80%94+FAST-NUCES+Karachi;Systems+%7C+Full-Stack+%7C+DevOps+Aspirant;Building+from+first+principles." alt="Typing SVG" />
 
 <br/>
 
