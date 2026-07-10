@@ -132,12 +132,14 @@ I am open to technical discussions, project collaborations, and any feedback on 
 ---
 
 <div align="center">
-  
-<p align="center">
-  <sub><b>"Kaam shuru karne se khatam hota hai."</b> (Work finishes by starting.) - Wisdom from Grade 6.</sub>
-  > This is my core philosophy for software development. I believe the best way to solve complex engineering problems is to overcome analysis paralysis, break down the inertia, and start     
-  writing clean code.
-</p>
+
+<br/>
+
+> **"Work finishes by starting" (wisdom by my grade 6 teacher)**
+
+<sub>The most effective answer to analysis paralysis - in engineering, and in life.</sub>
+
+<br/>
 
 </div>
 
