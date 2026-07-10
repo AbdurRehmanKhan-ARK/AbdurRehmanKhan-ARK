@@ -139,7 +139,7 @@ I am open to technical discussions, project collaborations, and any feedback on 
 
 <br/>
 
-<sub>⚙️ &nbsp; **The most effective answer to analysis paralysis - in engineering, and in life.** &nbsp; 🚀</sub>
+⚙️ &nbsp; **The most effective answer to analysis paralysis - in engineering, and in life.** &nbsp; 🚀
 
 <br/>
 
