@@ -132,8 +132,12 @@ I am open to technical discussions, project collaborations, and any feedback on 
 ---
 
 <div align="center">
-
-***_Low-level systems. Clean algorithms. Theory made tangible._***
+  
+<p align="center">
+  <sub><b>"Kaam shuru karne se khatam hota hai."</b> (Work finishes by starting.) - Wisdom from Grade 6.</sub>
+  > This is my core philosophy for software development. I believe the best way to solve complex engineering problems is to overcome analysis paralysis, break down the inertia, and start     
+  writing clean code.
+</p>
 
 </div>
 
