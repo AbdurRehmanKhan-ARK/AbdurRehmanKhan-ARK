@@ -135,7 +135,7 @@ I am open to technical discussions, project collaborations, and any feedback on 
 
 <br/>
 
-> **"Work finishes by starting" (wisdom by my grade 6 teacher)**
+***"Work finishes by starting" (wisdom by my grade 6 teacher)***
 
 <sub>The most effective answer to analysis paralysis - in engineering, and in life.</sub>
 
