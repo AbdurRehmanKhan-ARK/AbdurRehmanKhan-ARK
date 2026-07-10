@@ -22,7 +22,7 @@
 
 ## 🔹 About & Vision
 
-I am a CS Sophomore at FAST NUCES Karachi, building a rock-solid foundation for a career in **DevOps and Platform Engineering**. My philosophy is simple: *To build and automate highly scalable infrastructure, you must first master the software that runs on it.*
+I am a CS Sophomore at FAST NUCES Karachi, building a strong foundation for a career in **Full-Stack Development and DevOps Engineering**. My philosophy is simple: *To build and automate highly scalable infrastructure, you must first master the software that runs on it.*
 
 Instead of jumping straight into complex orchestration tools without context, I am deliberately spending my early years mastering systems programming, operating systems, and data structures. Currently, I am expanding my **Development (Dev)** foundations by building production-grade web applications using the **MERN/PERN** and **ASP.NET Core** stacks.
 
