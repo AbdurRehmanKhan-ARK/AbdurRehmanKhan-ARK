@@ -135,9 +135,11 @@ I am open to technical discussions, project collaborations, and any feedback on 
 
 <br/>
 
-***"Work finishes by starting" (wisdom by my grade 6 teacher)***
+✦ &nbsp; ***"Work finishes by starting." (wisdom by my grade 6 teacher)*** &nbsp; ✦
 
-<sub>The most effective answer to analysis paralysis - in engineering, and in life.</sub>
+<br/>
+
+<sub>⚙️ &nbsp; **The most effective answer to analysis paralysis - in engineering, and in life.** &nbsp; 🚀</sub>
 
 <br/>
 
