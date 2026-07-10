@@ -129,17 +129,16 @@ I am open to technical discussions, project collaborations, and any feedback on 
 <br/><br/>
 
 </div>
----
 
 <div align="center">
 
 <br/>
 
-✦ &nbsp; ***"Work finishes by starting." (wisdom by my grade 6 teacher)*** &nbsp; ✦
+✦ &nbsp; ***"Work finishes by starting." ~ wisdom by my grade 6 teacher ) :woman_teacher:*** &nbsp; ✦
 
 <br/>
 
-⚙️ &nbsp; **The most effective answer to analysis paralysis - in engineering, and in life.** &nbsp; 🚀
+🚀 &nbsp; ***The most effective answer to analysis paralysis - in engineering, and in life.*** &nbsp; 🚀
 
 <br/>
 
