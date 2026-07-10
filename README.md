@@ -22,22 +22,22 @@
 
 ## 🔹 About & Vision
 
-I am a CS Sophomore at FAST NUCES Karachi, building a strong foundation for a career in **Full-Stack Development and DevOps Engineering**. My philosophy is simple: *To build and automate highly scalable infrastructure, you must first master the software that runs on it.*
+I am a CS sophomore at FAST-NUCES Karachi, building a strong foundation for a career in **Full-Stack Development and DevOps / Platform Engineering**. My philosophy is simple: *to build and automate highly scalable infrastructure, you must first master the software that runs on it.*
 
-Instead of jumping straight into complex orchestration tools without context, I am deliberately spending my early years mastering systems programming, operating systems, and data structures. Currently, I am expanding my **Development (Dev)** foundations by building production-grade web applications using the **MERN/PERN** and **ASP.NET Core** stacks.
+Instead of jumping straight into orchestration tools without context, I am deliberately spending my early years mastering systems programming, operating systems, and data structures - while in parallel building production-grade web applications on the **MERN/PERN** and **ASP.NET Core** stacks.
 
-Every project here reflects a journey from first principles - moving intentionally from raw code to containerized deployment.
+Every project here reflects a journey from first principles: moving intentionally from raw code to containerized deployment.
 
 ---
 
 ## 🟢 Education
 
-**BS Computer Science | FAST NUCES Karachi**
+**BS Computer Science - FAST-NUCES Karachi**
 
 | Area | Coursework |
-|------|------------|
+|---|---|
 | Systems & Ops | Operating Systems, Computer Organization & Assembly, Digital Logic, Software Engineering |
-| Programming & Dev | Data Structures & Algorithms, Object-Oriented Programming, Database Systems, Web Dev |
+| Programming & Dev | Data Structures & Algorithms, OOP, Database Systems, Web Development |
 | Mathematics & AI | Linear Algebra, Calculus, Probability & Statistics, Theory of Automata, AI Fundamentals |
 
 ---
@@ -46,16 +46,16 @@ Every project here reflects a journey from first principles - moving intentional
 
 <div align="center">
 
-### Languages & Core Systems
+**Languages & Core Systems**<br/>
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,ts,bash,linux&theme=dark&perline=9" />
 
-### Full-Stack Development
+**Full-Stack Development**<br/>
 <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express,html,css,postman&theme=dark&perline=7" />
 
-### Databases
+**Databases**<br/>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" />
 
-### Learning Stack
+**Learning Stack - DevOps & Platform**<br/>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,terraform,ansible,nginx,grafana,prometheus&theme=dark&perline=8" />
 
 </div>
@@ -64,39 +64,41 @@ Every project here reflects a journey from first principles - moving intentional
 
 ## 🟢 Work
 
-Projects organized by the domain they demonstrate, showcasing the transition from core systems to full-stack engineering.
+Projects grouped by the domain they demonstrate - the throughline is core systems reasoning applied to increasingly full-stack problems.
 
-**Graph Theory & Data Structures**
+#### 🧠 Graph Theory & Data Structures
+**[SocioNET++](https://github.com/AbdurRehmanKhan-ARK/SocioNet-Plus-Plus)**
+`C++17` `Graph Theory` `Suffix Automaton` `Custom File I/O`
+Console-based social network engine modeling friend relationships as directed graphs. BFS-powered mutual-friend discovery, interest-weighted suggestion scoring, O(n) suffix-automaton username search, and a custom alphabetically-partitioned binary storage layer with O(log n) retrieval. Zero external dependencies.
 
-[SocioNET++](https://github.com/AbdurRehmanKhan-ARK/SocioNet-Plus-Plus) ***=>*** Console-based social network engine modeling friend relationships as directed graphs. BFS-powered mutual friend discovery, interest-weighted suggestion scoring, Suffix Automaton username search at O(n), and a custom alphabetically-partitioned binary file storage layer with O(log n) retrieval. Zero external dependencies.
+#### 🌐 Web Development & Full-Stack Engineering
+**[OmniFlex](https://github.com/AbdurRehmanKhan-ARK/Omni-Flex)**
+`ASP.NET Core MVC` `SQL Server` `Role-Based Auth`
+University academic management system orchestrating students, courses, enrollments, grades, and faculty operations across four distinct authorization roles. Built collaboratively through a structured Git branching workflow.
 
-**Web Development & Full-Stack Engineering**
+#### ⚙️ Operating Systems & Concurrency
+**[Producer-Consumer-POSIX](https://github.com/AbdurRehmanKhan-ARK/Producer-Consumer-POSIX)**
+`C` `POSIX Threads` `Semaphores & Mutexes`
+Airport baggage-handling simulation implementing the bounded-buffer producer-consumer problem at the systems level. Threads coordinated via mutex and dual semaphore primitives, with graceful shutdown propagated through a sentinel token.
 
-[OmniFlex](https://github.com/AbdurRehmanKhan-ARK/Omni-Flex) ***=>*** A university academic management system engineered on ASP.NET Core MVC. Orchestrates students, courses, enrollments, grades, and faculty operations across four distinct authorization roles. Developed collaboratively through a structured Git branching workflow.
-
-**Operating Systems & Concurrency**
-
-[Producer-Consumer-POSIX](https://github.com/AbdurRehmanKhan-ARK/Producer-Consumer-POSIX) ***=>*** Airport baggage handling simulation implementing the bounded-buffer producer-consumer problem at the systems level in C. POSIX threads coordinated via mutex and dual semaphore primitives. Graceful shutdown propagated through a sentinel token. This project cemented my understanding of how low-level system processes interact.
-
-**Digital Logic & Hardware Design**
-
-[6-Bit ALU](https://github.com/AbdurRehmanKhan-ARK/6-Bit-ALU) ***=>*** Fully functional Arithmetic Logic Unit constructed from primitive gates in Logisim. Sixteen operations spanning arithmetic, logical, shift, comparison, and utility categories. Built for the Digital Logic Design course.
+#### 🔌 Digital Logic & Hardware Design
+**[6-Bit ALU](https://github.com/AbdurRehmanKhan-ARK/6-Bit-ALU)**
+`Logisim` `Combinational Logic`
+Fully functional Arithmetic Logic Unit built from primitive gates, spanning sixteen operations across arithmetic, logical, shift, comparison, and utility categories. Built for the Digital Logic Design course.
 
 ---
 
 ## 🟠 Current Focus & Roadmap
 
-**Dev Mastery:** Deepening proficiency in the **MERN** and **PERN** stacks to understand complex backend architectures, microservices, and database optimizations.
-
-**DevOps Foundations:** Moving projects from "works on my machine" to isolated environments using **Docker**, while exploring automated workflows via **GitHub Actions**.
-
-**Algorithmic Discipline:** Maintaining continuous problem-solving practice through structured competitive programming.
+- **Dev Mastery** - Deepening proficiency in the **MERN** and **PERN** stacks to understand complex backend architectures, microservices, and database optimization.
+- **DevOps Foundations** - Moving projects from "works on my machine" to isolated environments using **Docker**, while exploring automated workflows via **GitHub Actions**.
+- **Systemetic Discipline** - Maintaining continuous problem-solving practice through structured learning.
 
 ---
 
 ## 🤝 Connect With Me
 
-I am open to technical discussions, project collaborations, and any feedback on my work. Whether you have spotted an issue in one of my repositories, have a better approach to share, or simply want to talk systems and engineering - feel free to reach out.
+Open to technical discussions, project collaborations, and feedback on my work. Whether you've spotted an issue in one of my repos, have a better approach to share, or just want to talk systems and engineering - feel free to reach out.
 
 <div align="center">
 
@@ -134,7 +136,7 @@ I am open to technical discussions, project collaborations, and any feedback on 
 
 <br/>
 
-✦ &nbsp; ***"Work finishes by starting." ~ wisdom by my grade 6 teacher ) :woman_teacher:*** &nbsp; ✦
+✦ &nbsp; ***"Work finishes by starting." - wisdom from my grade 6 teacher*** &nbsp; ✦
 
 <br/>
 
@@ -145,3 +147,6 @@ I am open to technical discussions, project collaborations, and any feedback on 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00AEEF,100:0174BE&height=100&section=footer" width="100%"/>
+
+
+
