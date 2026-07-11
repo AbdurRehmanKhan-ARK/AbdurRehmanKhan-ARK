@@ -119,13 +119,13 @@ Open to technical discussions, project collaborations, and feedback on my work. 
 <img src="./profile/streak.svg" height="165"/>
 <br/><br/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdurRehmanKhan-ARK&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF" height="400"/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdurRehmanKhan-ARK/AbdurRehmanKhan-ARK/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdurRehmanKhan-ARK/AbdurRehmanKhan-ARK/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AbdurRehmanKhan-ARK/AbdurRehmanKhan-ARK/output/github-contribution-grid-snake.svg">
 </picture>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdurRehmanKhan-ARK&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF" height="400"/>
 
 
 <br/><br/>
