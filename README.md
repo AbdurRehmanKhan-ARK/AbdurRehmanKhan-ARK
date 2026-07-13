@@ -88,11 +88,21 @@ Fully functional Arithmetic Logic Unit built from primitive gates, spanning sixt
 
 ---
 
-## 🟠 Current Focus & Roadmap
+## 🟡 Currently Learning
 
-- **Dev Mastery** - Deepening proficiency in the **MERN** and **PERN** stacks to understand complex backend architectures, microservices, and database optimization.
-- **DevOps Foundations** - Moving projects from "works on my machine" to isolated environments using **Docker**, while exploring automated workflows via **GitHub Actions**.
-- **Systemetic Discipline** - Maintaining continuous problem-solving practice through structured learning.
+Structured, in-progress learning repos - tracked commit-by-commit as I build alongside courses/series, rather than finished portfolio pieces.
+
+**[Backend-Journey](https://github.com/AbdurRehmanKhan-ARK/Backend-Journey)**
+`Node.js` `Express` `MongoDB` `Mongoose` `JWT`
+Concept-by-concept backend learning log following the Chai aur Code series - isolated practice files per topic, plus an actual fullstack deployment project and an in-progress YouTube-style capstone (`Mega-Project`).
+
+**[JavaScript-Tutorials](https://github.com/AbdurRehmanKhan-ARK/JavaScript-Tutorials)**
+`JavaScript` `V8 Internals`
+JS fundamentals through V8 internals - 20 modules, 74 files.
+
+**[Learning-DevOps](https://github.com/AbdurRehmanKhan-ARK/Learning-DevOps)**
+`Docker` `Kubernetes` `CI/CD`
+Docker, Linux, Kubernetes, and CI/CD practice - ties into the DevOps tools already listed in Tech Stack above.
 
 ---
 
