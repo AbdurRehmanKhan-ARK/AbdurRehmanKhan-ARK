@@ -76,12 +76,12 @@ Console-based social network engine modeling friend relationships as directed gr
 `ASP.NET Core MVC` `SQL Server` `Role-Based Auth`
 University academic management system orchestrating students, courses, enrollments, grades, and faculty operations across four distinct authorization roles. Built collaboratively through a structured Git branching workflow.
 
-#### ⚙️ Operating Systems & Concurrency
+#### ⚙️ Operating Systems 
 **[Producer-Consumer-POSIX](https://github.com/AbdurRehmanKhan-ARK/Producer-Consumer-POSIX)**
 `C` `POSIX Threads` `Semaphores & Mutexes`
 Airport baggage-handling simulation implementing the bounded-buffer producer-consumer problem at the systems level. Threads coordinated via mutex and dual semaphore primitives, with graceful shutdown propagated through a sentinel token.
 
-#### 🔌 Digital Logic & Hardware Design
+#### 🔌 Digital Logic Design
 **[6-Bit ALU](https://github.com/AbdurRehmanKhan-ARK/6-Bit-ALU)**
 `Logisim` `Combinational Logic`
 Fully functional Arithmetic Logic Unit built from primitive gates, spanning sixteen operations across arithmetic, logical, shift, comparison, and utility categories. Built for the Digital Logic Design course.
@@ -145,7 +145,7 @@ Open to technical discussions, project collaborations, and feedback on my work. 
 
 <br/>
 
-🚀 &nbsp; ***The most effective answer to analysis paralysis - in engineering, and in life.*** &nbsp; 🚀
+🚀 &nbsp; ***For me this is the most effective answer to analysis paralysis - in engineering, and in life.*** &nbsp; 🚀
 
 <br/>
 
