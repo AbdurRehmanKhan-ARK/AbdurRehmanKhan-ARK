@@ -47,7 +47,7 @@ Every project here reflects a journey from first principles: moving intentionall
 <div align="center">
 
 **Languages & Core Systems**<br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,ts,bash,linux&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts,bash,linux,git&theme=dark&perline=9" />
 
 **Full-Stack Development**<br/>
 <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express,html,css,postman&theme=dark&perline=7" />
