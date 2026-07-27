@@ -141,7 +141,7 @@ Open to technical discussions, project collaborations, and feedback on my work. 
 
 <div align="center">
 
-✦ &nbsp; ***"Work finishes by starting." - wisdom from my grade 6 teacher*** &nbsp; ✦
+✦ &nbsp; ***"Work finishes by starting." - a masterpiece of wisdom from my grade 6 teacher*** &nbsp; ✦
 
 <br/>
 
