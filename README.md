@@ -22,7 +22,7 @@
 
 ## 🔹 About & Vision
 
-I am a BSCS Student at FAST-NUCES Karachi, building a strong foundation for a career in **Full-Stack Development and DevOps / Platform Engineering**. My philosophy is simple: *to build and automate highly scalable infrastructure, you must first master the software that runs on it.*
+I am a BSCS Student at FAST-NUCES Karachi, building a strong foundation for a career in **Full-Stack Development and DevOps / Platform Engineering**. My mindset is simple: *to build and automate highly scalable infrastructure, you must first master the software that runs on it.*
 
 Instead of jumping straight into orchestration tools without context, I am deliberately spending my early years mastering systems programming, operating systems, and data structures - while in parallel building production-grade web applications on the **MERN/PERN** and **ASP.NET Core** stacks.
 
