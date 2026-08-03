@@ -90,7 +90,7 @@ Fully functional Arithmetic Logic Unit built from primitive gates, spanning sixt
 
 ## 🟡 Currently Learning
 
-Structured, in-progress learning repos - tracked commit-by-commit as I build alongside courses/series, rather than finished portfolio pieces.
+Structured, in-progress learning repositories - tracked commit-by-commit as I build alongside courses/series, rather than finished portfolio pieces.
 
 **[Backend-Journey](https://github.com/AbdurRehmanKhan-ARK/Backend-Journey)**
 `Node.js` `Express` `MongoDB` `Mongoose` `JWT`
