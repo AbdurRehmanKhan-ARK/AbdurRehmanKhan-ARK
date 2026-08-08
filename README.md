@@ -36,8 +36,8 @@ Every project here reflects a journey from first principles: moving intentionall
 
 | Area | Coursework |
 |---|---|
-| Systems & Ops | Operating Systems, Computer Organization & Assembly, Digital Logic, Software Engineering |
-| Programming & Dev | Data Structures & Algorithms, OOP, Database Systems, Web Development |
+| Systems & Architecture | Operating Systems, Computer Organization & Assembly, Digital Logic, Software Engineering |
+| Programming & Development | Data Structures & Algorithms, OOP, Database Systems, Web Development |
 | Mathematics & AI | Linear Algebra, Calculus, Probability & Statistics, Theory of Automata, AI Fundamentals |
 
 ---
