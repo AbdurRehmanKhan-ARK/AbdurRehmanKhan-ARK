@@ -20,7 +20,7 @@
 
 ---
 
-## 🔹 About & Vision
+## 🔹 About 
 
 I am a BSCS Student at FAST-NUCES KHI, building a strong foundation for a career in **Full-Stack Development and DevOps / Platform Engineering**. My mindset is simple: *to build and automate highly scalable infrastructure, you must first master the software that runs on it.*
 
