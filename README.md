@@ -55,8 +55,13 @@ Every repository here follows the same arc: from raw code, to tested software, t
 **Databases**<br/>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" />
 
-**Learning Track: DevOps & Platform**<br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,terraform,ansible,nginx,grafana,prometheus&theme=dark&perline=8" />
+**Machine Learning & Data**<br/>
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="20" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="20" />
+
+**Learning Track: Containers & CI/CD**<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,nginx&theme=dark&perline=4" />
 
 </div>
 
@@ -107,7 +112,7 @@ JavaScript fundamentals studied down to V8 internals: 20 modules, 74 files.
 
 **[Learning DevOps](https://github.com/AbdurRehmanKhan-ARK/Learning-DevOps)**
 `Docker` `Kubernetes` `CI/CD`
-Docker, Linux, Kubernetes, and CI/CD practice. This repository ties the DevOps tooling listed in the tech stack above to hands on exercises.
+Docker, Linux, Kubernetes, and CI/CD practice. This repository ties the container and CI/CD tooling listed in the tech stack above to hands on exercises.
 
 ---
 
