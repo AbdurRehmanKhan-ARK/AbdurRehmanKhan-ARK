@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0174BE,100:00AEEF&height=180&section=header&text=Abdur%20Rehman%20Khan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=BS%20Computer%20Science%20%40%20FAST-NUCES%20Karachi&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0174BE,100:00AEEF&height=180&section=header&text=Abdur%20Rehman%20Khan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=BS%20Computer%20Science%20%40%20FAST%20NUCES%20Karachi&descAlignY=55&descSize=18" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi,+I+am+Abdur+Rehman+Khan;BS+Computer+Science+%E2%80%94+FAST-NUCES+Karachi;Systems+%7C+Full-Stack+%7C+DevOps+Aspirant;Building+from+first+principles." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi,+I+am+Abdur+Rehman+Khan;BS+Computer+Science,+FAST+NUCES+Karachi;Systems+%7C+Full+Stack+%7C+Platform+Engineering;Building+from+first+principles." alt="Typing SVG" />
 
 <br/>
 
@@ -20,19 +20,19 @@
 
 ---
 
-## 🔹 About 
+## 🔹 About
 
-I am a BSCS Student at FAST-NUCES KHI, building a strong foundation for a career in **Full-Stack Development and DevOps / Platform Engineering**. My mindset is simple: *to build and automate highly scalable infrastructure, you must first master the software that runs on it.*
+I am a Computer Science undergraduate at FAST NUCES Karachi, building toward a career in **Full Stack Development and Platform Engineering**. My guiding principle is simple: to build and automate dependable infrastructure at scale, one must first master the software that runs on it.
 
-Instead of jumping straight into orchestration tools without context, I am deliberately spending my early years mastering systems programming, operating systems, and data structures - while in parallel building production-grade web applications on the **MERN** and **ASP.NET Core** stacks.
+Rather than reaching for orchestration tools without context, I am deliberately investing my early semesters in systems programming, operating systems, and data structures, while building real web applications on the **MERN** and **ASP.NET Core** stacks in parallel.
 
-Every project here reflects a journey from first principles: moving intentionally from raw code to containerized deployment.
+Every repository here follows the same arc: from raw code, to tested software, to containerized deployment.
 
 ---
 
 ## 🟢 Education
 
-**BS Computer Science - FAST-NUCES Karachi**
+**BS Computer Science, FAST NUCES Karachi**
 
 | Area | Coursework |
 |---|---|
@@ -49,13 +49,13 @@ Every project here reflects a journey from first principles: moving intentionall
 **Languages & Core Systems**<br/>
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts,bash,linux,git&theme=dark&perline=9" />
 
-**Full-Stack Development**<br/>
+**Full Stack Development**<br/>
 <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express,html,css,postman&theme=dark&perline=7" />
 
 **Databases**<br/>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" />
 
-**Learning Stack - DevOps & Platform**<br/>
+**Learning Track: DevOps & Platform**<br/>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,terraform,ansible,nginx,grafana,prometheus&theme=dark&perline=8" />
 
 </div>
@@ -64,51 +64,56 @@ Every project here reflects a journey from first principles: moving intentionall
 
 ## 🟢 Work
 
-Projects grouped by the domain they demonstrate - the throughline is core systems reasoning applied to increasingly full-stack problems.
+Projects grouped by the domain they demonstrate. The common thread: core systems reasoning applied to problems of increasing scope.
 
 #### 🧠 Graph Theory & Data Structures
 **[SocioNET++](https://github.com/AbdurRehmanKhan-ARK/SocioNet-Plus-Plus)**
 `C++17` `Graph Theory` `Suffix Automaton` `Custom File I/O`
-Console-based social network engine modeling friend relationships as directed graphs. BFS-powered mutual-friend discovery, interest-weighted suggestion scoring, O(n) suffix-automaton username search, and a custom alphabetically-partitioned binary storage layer with O(log n) retrieval. Zero external dependencies.
+Console based social network engine that models friend relationships as directed graphs. BFS powered mutual friend discovery, interest weighted suggestion scoring, O(n) suffix automaton username search, and a custom alphabetically partitioned binary storage layer with O(log n) retrieval. Zero external dependencies.
 
-#### 🌐 Web Development & Full-Stack Engineering
+#### 📊 Machine Learning & Data Pipelines
+**[Chronic Wound Fusion](https://github.com/AbdurRehmanKhan-ARK/chronic-wound-fusion)**
+`Python` `PyTorch` `Transfer Learning` `Statistical Evaluation`
+Research extension of a published chronic wound classification study. Engineered a leakage safe training and evaluation pipeline with group aware cross validation, MD5 integrity audits, and fully seeded reproducible runs. Trained three CNN backbones with a gated decision level fusion head, improving test accuracy from 73.87% to 79.28%, reported with 95% confidence intervals and complete ablations.
+
+#### 🌐 Web Development & Full Stack Engineering
 **[OmniFlex](https://github.com/AbdurRehmanKhan-ARK/Omni-Flex)**
-`ASP.NET Core MVC` `SQL Server` `Role-Based Auth`
-University academic management system orchestrating students, courses, enrollments, grades, and faculty operations across four distinct authorization roles. Built collaboratively through a structured Git branching workflow.
+`ASP.NET Core MVC` `SQL Server` `Role Based Auth`
+University academic management system handling students, courses, enrollments, grades, and faculty operations across four distinct authorization roles. Built collaboratively through a structured Git branching workflow.
 
-#### ⚙️ Operating Systems 
-**[Producer-Consumer-POSIX](https://github.com/AbdurRehmanKhan-ARK/Producer-Consumer-POSIX)**
+#### ⚙️ Operating Systems
+**[Producer Consumer POSIX](https://github.com/AbdurRehmanKhan-ARK/Producer-Consumer-POSIX)**
 `C` `POSIX Threads` `Semaphores & Mutexes`
-Airport baggage-handling simulation implementing the bounded-buffer producer-consumer problem at the systems level. Threads coordinated via mutex and dual semaphore primitives, with graceful shutdown propagated through a sentinel token.
+Airport baggage handling simulation implementing the bounded buffer producer consumer problem at the systems level. Threads are coordinated through a mutex and dual semaphore primitives, with graceful shutdown propagated via a sentinel token.
 
 #### 🔌 Digital Logic Design
-**[6-Bit ALU](https://github.com/AbdurRehmanKhan-ARK/6-Bit-ALU)**
+**[6 Bit ALU](https://github.com/AbdurRehmanKhan-ARK/6-Bit-ALU)**
 `Logisim` `Combinational Logic`
-Fully functional Arithmetic Logic Unit built from primitive gates, spanning sixteen operations across arithmetic, logical, shift, comparison, and utility categories. Built for the Digital Logic Design course.
+Fully functional Arithmetic Logic Unit built from primitive gates, spanning sixteen operations across arithmetic, logical, shift, comparison, and utility categories. Developed for the Digital Logic Design course.
 
 ---
 
 ## 🟡 Currently Learning
 
-Structured, in-progress learning repositories - tracked commit-by-commit as I build alongside courses/series, rather than finished portfolio pieces.
+Structured learning repositories, tracked commit by commit as I build alongside courses and series. These are working notebooks, not finished portfolio pieces.
 
-**[Backend-Journey](https://github.com/AbdurRehmanKhan-ARK/Backend-Journey)**
+**[Backend Journey](https://github.com/AbdurRehmanKhan-ARK/Backend-Journey)**
 `Node.js` `Express` `MongoDB` `Mongoose` `JWT`
-Concept-by-concept backend learning log following the Chai aur Code series - isolated practice files per topic, plus an actual fullstack deployment project and an in-progress YouTube-style capstone (`Mega-Project`).
+Concept by concept backend learning log following the Chai aur Code series. Isolated practice files per topic, a deployed full stack project, and a YouTube style capstone in progress.
 
-**[JavaScript-Tutorials](https://github.com/AbdurRehmanKhan-ARK/JavaScript-Tutorials)**
+**[JavaScript Tutorials](https://github.com/AbdurRehmanKhan-ARK/JavaScript-Tutorials)**
 `JavaScript` `V8 Internals`
-JS fundamentals through V8 internals - 20 modules, 74 files.
+JavaScript fundamentals studied down to V8 internals: 20 modules, 74 files.
 
-**[Learning-DevOps](https://github.com/AbdurRehmanKhan-ARK/Learning-DevOps)**
+**[Learning DevOps](https://github.com/AbdurRehmanKhan-ARK/Learning-DevOps)**
 `Docker` `Kubernetes` `CI/CD`
-Docker, Linux, Kubernetes, and CI/CD practice - ties into the DevOps tools already listed in Tech Stack above.
+Docker, Linux, Kubernetes, and CI/CD practice. This repository ties the DevOps tooling listed in the tech stack above to hands on exercises.
 
 ---
 
 ## 🤝 Connect With Me
 
-Open to technical discussions, project collaborations, and feedback on my work. Whether you've spotted an issue in one of my repos, have a better approach to share, or just want to talk systems and engineering - feel free to reach out.
+Open to technical discussions, project collaborations, and feedback on my work. If you have spotted an issue in one of my repositories, know a better approach, or simply want to talk systems and engineering, feel free to reach out.
 
 <div align="center">
 
@@ -141,17 +146,14 @@ Open to technical discussions, project collaborations, and feedback on my work. 
 
 <div align="center">
 
-✦ &nbsp; ***"Work finishes by starting." - a masterpiece of wisdom from my grade 6 teacher*** &nbsp; ✦
+✦   ***"Work finishes by starting." A masterpiece of wisdom from my grade 6 teacher.***   ✦
 
 <br/>
 
-🚀 &nbsp; ***For me this is the most effective answer to analysis paralysis - in engineering, and in life.*** &nbsp; 🚀
+🚀   ***For me, this is the most effective answer to analysis paralysis, in engineering and in life.***   🚀
 
 <br/>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00AEEF,100:0174BE&height=100&section=footer" width="100%"/>
-
-
-
